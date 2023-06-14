@@ -6,4 +6,7 @@ title: Publications
 
 # Publications
 
+- Yang, Z., Gong, Z., Jiang, Y.*, Cai, Y., Ma, Z., Na, X., Dong, Z. and Zhang, D., 2022. Maximized Hydrodynamic Stimulation Strategy for Placement of Differential Pressure and Velocity Sensors in Artificial Lateral Line Systems. IEEE Robotics and Automation Letters, 7(2), pp.2170-2177.  (with ICRA 2022)
+
+- Jiang, Y.*, Gong, Z., Yang, Z., Ma, Z., Wang, C., Wang, Y. and Zhang, D., 2021. Underwater source localization using an artificial lateral line system with pressure and flow velocity sensor fusion. IEEE/ASME Transactions on Mechatronics, 27(1), pp.245-255.
 
