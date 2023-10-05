@@ -4,6 +4,7 @@ layout: page
 
 # About Me
 
+
 Here is **Zhen Yang (杨真)**.
 
 I am currently an embedded software engineer at Zhiyuan Research Institute (state key laboratory), after receiving my master's degree in mechanic engineering from Beihang University in January 2023.
@@ -13,6 +14,7 @@ I am currently an embedded software engineer at Zhiyuan Research Institute (stat
 For more information, you can check my CV.
 
 ## Education
+
 
 学科交叉，软硬结合，背景丰富：两年计算机，两年自动化，两年机械，路越走越歪……
 
@@ -30,9 +32,10 @@ I have a multidisciplinary background in **computer science**, **automation**, a
 
 ## Research Interests
 
+
 Throughout my master's career, I concentrated on bionic robotic fish and bionic sensing of artificial lateral line systems. 
 
-You can briefly understand my research field through my animation short film.
+You can briefly understand my research field through my animation short film:
 [https://www.bilibili.com/video/BV1u54y1G7kc/](https://www.bilibili.com/video/BV1u54y1G7kc/)
 - Bionic Robotics
 
@@ -44,6 +47,6 @@ You can briefly understand my research field through my animation short film.
 
 ## News and Updates
 
-- Supplement Materials for *Nature Machine Intelligence*: [fish-S1.html](https://zcgyang.github.io/file/File-S1.html) *It may take several minutes to load.*
+- Supplement Materials for *Nature Machine Intelligence*: [fish-S1.html](/file/File-S1.html) *It may take several minutes to load.*
 
-- Supplement Materials for *Nature Machine Intelligence*: [fish-S2.html](https://zcgyang.github.io/file/File-S2.html) *It may take several minutes to load.*
+- Supplement Materials for *Nature Machine Intelligence*: [fish-S2.html](/file/File-S2.html) *It may take several minutes to load.*

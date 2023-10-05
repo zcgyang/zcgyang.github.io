@@ -6,6 +6,10 @@ title: Publications
 
 # Publications
 
+
+My Google Schoolar: [https://scholar.google.com/citations?user=n-8n85EAAAAJ&hl=en](https://scholar.google.com/citations?user=n-8n85EAAAAJ&hl=en)
+
+* corrspongding author
 - **Yang, Z**., Gong, Z., Jiang, Y.\*, Cai, Y., Ma, Z., Na, X., Dong, Z. and Zhang, D., 2022. Maximized Hydrodynamic Stimulation Strategy for Placement of Differential Pressure and Velocity Sensors in Artificial Lateral Line Systems. *IEEE Robotics and Automation Letters*, 7(2), pp.2170-2177.   
   - Presented at *International Conference on Robotics and Automation* (ICRA) 2022
   - Paper link: 
