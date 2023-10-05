@@ -36,6 +36,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
+  - title: CV
+    url: (https://zcgyang.github.io/file/CV-Zhen Yang-online.pdf) 
   - title: Projects
     url: /projects/
   - title: Awards
@@ -46,7 +48,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown
