@@ -8,7 +8,12 @@ title: Projects
 
 #### **Artificial lateral line fusion sensing technology for robotic blind fish**
 
-
+#### 基于流场压力流速定位水下三维振动源
+<center>
+<img src="/projects/target_device_2.jpg", width=60%>
+</center>
+#### 基于ROS的自主跟随机器人
+国家级大学生创新项目
 
 <br>
 
