@@ -11,7 +11,7 @@ I am currently an embedded software engineer at Zhiyuan Research Institute (stat
 
 **<font color='red'> [Highlight] </font> I am looking for a PhD position in Robotics or related fireld in 2024. Contact me if you have any leads!**
 
-For more information, you can check my CV.
+For more information, you can check my [CV](/file/CV-Zhen%20Yang-online.pdf).
 
 ## Education
 
