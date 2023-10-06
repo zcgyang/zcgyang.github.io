@@ -30,7 +30,7 @@ Bilibili：[真菜馆长](https://space.bilibili.com/284672720)
 
 ## Bibibili
 
-- 遛机器鱼
+- 遛初代机器鱼样机
 
 <iframe src="//player.bilibili.com/player.html?aid=431981230&bvid=BV1EG411j7Ck&cid=872802021&p=1&autoplay=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
