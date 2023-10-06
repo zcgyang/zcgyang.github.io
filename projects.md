@@ -23,12 +23,12 @@ Project Leader
 **Abstract**-Fish can perceive the surrounding flow field using their lateral line systems, consisting of canal neuromasts (CNs) for flow pressure gradient perception and superficial neuromasts (SNs) for flow velocity detection. Although various artificial lateral line (ALL) systems have been developed inspired by the lateral line of fish, few studies have combined both pressure and velocity sensors for hydrodynamic perception, and how to optimize sensor placement remains unanswered, particularly on three-dimensional models. Herein we proposed a maximized hydrodynamic stimulation strategy for sensor placement optimization. We built a fish model and designed an ALL system by mimicking the geometry of a blind cavefish, Sinocyclocheilus tianlinensis. Differential pressure sensors and hot-film flow velocity sensors were used to mimic the CNs and SNs, respectively, with optimized sensor placement. The simulation and experimental results on yaw angle detection suggested that both sensor placement of our ALL system and distribution of the biological lateral line showed good agreement with the maximized hydrodynamic stimulation strategy. Our ALL system could detect a wall within a distance of 0.1 body length, comparable to the perception ability of cave fish. The new sensor placement strategy can be used to equip ALL systems on bionic robotic fish and other underwater vehicles.
 
 <div align=center>
-<img src=".\projects\max\contours.png" style="zoom:100%;" />
-<img src=".\projects\max\fish_like.png" style="zoom:50%; " />
-<img src=".\projects\max\hardware.png" style="zoom:80%;" />
+<img src="/projects/max/contours.png" style="zoom:100%;" />
+<img src="/projects/max/fish_like.png" style="zoom:50%; " />
+<img src="/projects/max/hardware.png" style="zoom:80%;" />
 </div>
 
-#### 基于流场压力流速定位水下三维振动源
+## 基于流场压力流速定位水下三维振动源
 
 Deputy project leader
 
@@ -37,8 +37,14 @@ Deputy project leader
 
 <div align=center>
 <img src="/projects/target/target_device_2.jpg" style="zoom:100%;" />
-<img src=".\projects\target\target_device.jpg" style="zoom:50%; " />
-<img src=".\projects\target\3Dtarget.jpg" style="zoom:80%;" />
+</div>
+
+<div align=center>
+<img src="/projects/target/target_device.jpg" style="zoom:50%; " />
+</div>
+
+<div align=center>
+<img src="/projects/target/3Dtarget.jpg" style="zoom:80%;" />
 </div>
 
 
@@ -50,6 +56,9 @@ Use magnets and multi-link mechanisms to mimic the muscles and bones of fish to 
 
 <div align=center>
 <img src="/projects/magnetic_fish/magnetic fish.png" style="zoom:80%;" />
+</div>
+
+<div align=center>
 <img src="/projects/magnetic_fish/real_tail.gif" style="zoom:100%; " />
 </div>
 
