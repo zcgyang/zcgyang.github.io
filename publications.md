@@ -12,7 +12,7 @@ title: Publications
 > *corresponding author
 
 - **Yang, Z**., Gong, Z., Jiang, Y.\*, Cai, Y., Ma, Z., Na, X., Dong, Z. and Zhang, D., 2022. Maximized Hydrodynamic Stimulation Strategy for Placement of Differential Pressure and Velocity Sensors in Artificial Lateral Line Systems. *IEEE Robotics and Automation Letters*, 7(2), pp.2170-2177. [[PDF]](/publications/Yang2022.pdf)   
-  - Presented at *International Conference on Robotics and Automation* (ICRA) 2022
+  - Presented at the *International Conference on Robotics and Automation* (ICRA) 2022
   - Paper link: 
   [https://ieeexplore.ieee.org/abstract/document/9682540](https://ieeexplore.ieee.org/abstract/document/9682540)
 
@@ -22,4 +22,4 @@ title: Publications
 - Gong, Z., Cao Y., Cao H., Wan B., **Yang, Z.**, Ke, X., Zhang, D., Chen, H., Wang, K., and Jiang, Y.\*, 2023, Morphological intelligence mechanisms in biological and biomimetic flow sensing, *Advanced Intelligent Systems*, p.2300154. [[PDF]](/publications/Gong2023.pdf) 
   - Paper link: [https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300154](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300154)
 
-- Gong, Z., Cao, W., Yang, Z., Zhang, D. and Jiang, Yong.*, Underwater Vortex Source Localization Using an Artificial Lateral Line System with Differential Pressure and Velocity Sensors, IEEE Oceans 2024. (Accepted)
+- Gong, Z., Cao, W., **Yang, Z.**, Zhang, D. and Jiang, Yong.*, Underwater Vortex Source Localization Using an Artificial Lateral Line System with Differential Pressure and Velocity Sensors, *IEEE Oceans 2024*. (Accepted)
