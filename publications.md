@@ -22,7 +22,7 @@ title: Publications
 - Gong, Z., Cao, Y., Cao, H., Wan, B., **Yang, Z.**, Ke, X., Zhang, D., Chen, H., Wang, K., and Jiang, Y.\*, 2023, Morphological intelligence mechanisms in biological and biomimetic flow sensing, *Advanced Intelligent Systems*, p.2300154. [[PDF]](/publications/Gong2023.pdf) 
   - Paper link: [https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300154](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300154)
 
-- Gong, Z., Di, W., Jiang, Y.\*, Dong, Z., Yang, Z., Ye, H., Zheng H., Liu, H., Wei, Z., Tu, Zhan., Li, D., Xiang, J., Ding, X., Zhang, D., and Chen, H., Flexible Calorimetric Flow Sensor with Unprecedented Sensitivity and Directional Resolution for Multiple Flight Parameter Detection, 2024, Nature Communications, 15, 3091.
+- Gong, Z., Di, W., Jiang, Y.\*, Dong, Z., **Yang, Z.**, Ye, H., Zheng H., Liu, H., Wei, Z., Tu, Zhan., Li, D., Xiang, J., Ding, X., Zhang, D., and Chen, H., Flexible Calorimetric Flow Sensor with Unprecedented Sensitivity and Directional Resolution for Multiple Flight Parameter Detection, 2024, *Nature Communications*, 15, 3091.
   - Paper link: [https://www.nature.com/articles/s41467-024-47284-7](https://www.nature.com/articles/s41467-024-47284-7)
 
 - Gong, Z., Cao, W., **Yang, Z.**, Zhang, D. and Jiang, Yong.\*, Underwater Vortex Source Localization Using an Artificial Lateral Line System with Differential Pressure and Velocity Sensors, *IEEE Oceans 2024*. 
