@@ -50,11 +50,6 @@ You can briefly understand my research field through my animation short film *La
 
 ## News and Updates
 
-
-- **[07/2023]** Supplement Materials for *Nature Machine Intelligence*: [fish-S1.html](/file/File-S1.html) *It may take several minutes to load.* 但愿能accept
-
-- **[07/2023]** Supplement Materials for *Nature Machine Intelligence*: [fish-S2.html](/file/File-S2.html) *It may take several minutes to load.*
-
 - **[02/2023]** 告别自由，开始打工……
 
 - **[12/2022]** I passed the thesis defense and graduated from Beihang University. 仓促毕业离校。
